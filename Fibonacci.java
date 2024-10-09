@@ -12,7 +12,7 @@ public class Fibonacci
         for (int i=0;i<c;i++)
         {
             n[i]=sc.nextInt();
-        }
+        } 
     }
     public boolean check() 
     {int ch=0;
