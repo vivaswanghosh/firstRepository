@@ -13,7 +13,7 @@ public class Fibonacci
         {
             n[i]=sc.nextInt();
         }
-    }
+    } 
     public boolean check()
     {int ch=0;
         m[0]=0;
